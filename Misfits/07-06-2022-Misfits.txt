@@ -1,0 +1,37 @@
+Ariel:
+- What I did last work day?
+	I started setting up my database tables
+- What am I doing today?
+	I will clean up my sql file/ database
+	Set up my servlet and try setting up tomcat/postman connections
+- Do I have any blockers?
+	None
+Misfits - Jairus (Jay)
+Q1. What did I do yesterday
+Worked on setting up and connecting tomcat and postman
+Q2. What am I doing today
+Setup my database and use the Github Project feature to design Project 1
+Q3. Do I have any blockers
+No Blockers
+
+
+Glenn:
+- What I did last work day?
+database, created models, servlet testing with data simple select all statement
+- What am I doing today?
+login session
+	I have a question about
+	no questions
+- Do I have any blockers?
+	nothing
+
+Gianmarco
+- What I did last work day?
+worked on templating database tables and java structure
+- What am I doing today?
+ working on servlets and implementing hibernate
+if i have time i would like to start that initial connection
+     -I have a question about
+	no questions
+- Do I have any blockers?
+had no blockers
