@@ -1,0 +1,46 @@
+Misfits
+
+Gianmarco Barone
+
+- What I did last work day?
+ implemented hibernate and worked on my servlets
+- What am I doing today?
+work on connecting the front end and the back end in addition i would like to get a login feature implemented if possible
+- Do I have any blockers?
+no blockers
+
+Ariel Badie
+
+- What I did last work day?
+	Cleaned up SQL file with tables
+	Implemented servlet demo
+	Started working on hibernate
+- What am I doing today?
+	Tomcat connection
+	Continue work on hibernate
+- Do I have any blockers?
+	None
+
+Glenn Syham
+
+- What I did last work day?
+	login , reimbursement list on html
+- What am I doing today?
+	fix hibernate to 5.6.9
+     -I have a question about
+- Do I have any blockers?
+   hibernate 5.6.9 not working
+
+Jairus (Jay)
+
+Q1. What did I do yesterday
+
+Worked on setting up and connecting tomcat and postman
+
+Q2. What am I doing today
+
+Setup my database 
+
+Q3. Do I have any blockers
+
+No Blockers
