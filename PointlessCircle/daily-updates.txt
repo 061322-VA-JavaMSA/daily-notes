@@ -23,3 +23,27 @@ Derek:
 		- Create user model, and setup DAO's, and QC.
 	Do I have any blockers?
 		- No.
+
+07/07/2022
+
+Michael
+	What did you do yesterday?
+		- Got stuck connecting to Tomcat.
+	WHat am I doing today?
+		- Resolved the issue with Tomcat. Now stuck with "Could not determine JdbcType error".
+	Do I have any blockers?
+		- No.
+Nestor:
+	What did you do yesterday?
+		- Rewatching some of the week 3 lectures and taking detailed notes about how the project is gonna be structured and how each individual unit of it works
+	What am I doing today?
+		- Just gonna keep developing the body of the application (I.e. populating the Employee and Manager models, daos, etc.)
+	Do I have any blockers?
+		- No.
+Derek: 
+	What did you do yesterday?
+		- Got stuck with Tomcat and Hibernate.
+	What am I doing today?
+		- Resolving issues with Tomcat and Hibernate. Hopefully will be getting started on DAO's.
+	Do I have any blockers?
+		- No.
