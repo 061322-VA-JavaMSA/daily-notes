@@ -1,0 +1,17 @@
+Zaki - 
+    Yesteray - Zaki setup tomcat yesterday and had a successful test with it.
+             - also did some hackerrank practice.
+    Today - Plans to do more practice questions and to set up hibernation.*
+    Blockers - none
+Trey - 
+    Yesterday - Trey was working on getting apache configured and workign on practice coding challenges.
+    Today - Trey's plans are to continue troubleshooting Apache and take the qc assessment.
+    Blockers - none
+Dylan - 
+    Yesterday - I worked setting hibernation* and started to assemble my html pages.
+              - I also did some hackerrank practice.
+    Today - I plan to use hibernation* to setup my tables and get signUp/Login working.
+          - I also plan to take the QC assessment.
+    Blockers - none.
+
+*Proper hibernate terminology.
