@@ -1,0 +1,26 @@
+Zaki: 
+    Yesterday - Created all tables and got ERD setup.
+                - Created java packages and classes.
+    Today - Connect front end to DB.
+            - Set up tomcat
+    Blockers - None
+
+Trey:
+    Yesterday - Finished everything except reimbersememts tabe.
+    Today - Main priority retireve a list of users from db and have it returned in the front end.
+                - secondary is to get things set up on laptop to be able to work from the laptop over the Weekend.
+    Blockers - None
+
+Dylan:
+    Yesterday - Began working on login, but encountered relational errors
+    Today - Diagnose and fix relational errors.
+    Weekend - Would like to finish with login and get reimbursements up and running.
+    Blockers - None
+
+Hatim:
+    Yesterday - Added tomcat server to the application.
+                - added a class for reimbursements, but is not linked to db yet.
+    Today -  Revisit installation for tomcat to resolve connection issues.
+            - Work on retreieving data from the users table and have it returned on the front end.
+            - Also plans to work on classes.
+    Blockers - None

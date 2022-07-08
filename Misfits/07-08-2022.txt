@@ -1,0 +1,34 @@
+Gianmarco
+- What I did last work day?
+get initial connections working
+- What am I doing today?
+working on splitting auth for manager and employee and building out pages
+- Do I have any blockers?
+no blockers
+
+Misfits - Jairus (Jay)
+Q1. What did I do yesterday
+Worked on setting up my database (Done)
+Q2. What am I doing today
+Develop more functionality and work on the front end
+Q3. Do I have any blockers
+Couldn't figure out servlets
+No Blockers anymore
+
+Ariel:
+- What I did last work day?
+	Tomcat Connection
+	Hibernate work
+- What am I doing today?
+	Work on webpages
+- Do I have any blockers?
+	None
+**I was just having a versions issue with using project on tomcat8 and fixed the issue.
+Glenn
+- What I did last work day?
+	 add reimbursement
+- What am I doing today?
+     -I have a question about
+	 cors issue, list reimbursement manager
+- Do I have any blockers?
+	cors issue
