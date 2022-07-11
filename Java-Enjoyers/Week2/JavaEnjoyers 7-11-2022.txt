@@ -1,0 +1,22 @@
+Zaki: 
+    Yesterday - fixed TomCat, connected employee table to Java using Hibernate 
+    Today -  will work  on Assignment on RevPro and putting more functionalities to project1
+    Blockers - had issues with TomCat versions now solved
+
+Trey:
+    Yesterday - Fixed navbar issue in users.html and added reimburse html and js.
+    Today - Finish quizzes and make reimburse actually pull from the database.
+    Blockers - None
+
+Dylan:
+    Yesterday - Over the weekend, I got user registration working.
+                - Began working on Reimbursements.
+    Today - Study for tomorrow's QC
+            - take the assesment.
+    Blockers - None
+
+Hatim:
+    Today - Hatim has made the decision to take a step back and improve his living situation, before continuing with revature.
+            - We will miss him, but we understand his decision and wish him the best of luck with his future.
+            - We told him not to be a stranger and message us on discord at anytime.
+    Blockers - None
