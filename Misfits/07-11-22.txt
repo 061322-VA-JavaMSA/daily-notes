@@ -1,0 +1,30 @@
+Name: Gianmarco
+- What I did last work day?
+worked on pulling reimbursement lists
+- What am I doing today?
+working on implementing reimbursement creation
+- Do I have any blockers?
+no blockers
+
+- What I did last work day?
+	 rest of management accept deny view, valiidation if employee and manager
+- What am I doing today?
+     -I have a question about
+	   study qc
+- Do I have any blockers?
+	none4
+
+- What I did last work day?
+	Working on webpage layouts
+- What am I doing today?
+	Study Guide & Quizzes
+- Do I have any blockers?
+	None
+
+Misfits - Jairus (Jay)
+Q1. What did I do yesterday
+Worked on setting up Front End
+Q2. What am I doing today
+Working on Login
+Q3. Do I have any blockers
+Not fully understanding servlets

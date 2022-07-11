@@ -41,28 +41,23 @@ Calvin -
 	Yesterday - Front end development
 	Today - Populating reimbursement, javascript
 	Blockers - None
+        
 
-=======
-1.
+7/8/2022
 Charles -
-        Yesterday - New Login Setup
-        Today - Get Database Setup
-        Blockers - None
-
+	Yesterday: Got connection
+	Today: Trying to figure out the error
+	Blockers - the error
 Daniel -
-        Yesterday - Started Project, Try to set servlet up. No pop up
-        Today - try to get it to work
-        Blockers - none
-
+	Yesterday - Get tomcat to work! Start databases
+	Today - Finishing classes for backend
+	Blockers - None
 Lane -
-        Yesterday - Started project
-        Today - set up server and make it run goal to get somethings to connect
-        Blockers - none
-
+	Yesterday - Got server to work!
+	Today - Working on front->back implementation
+	Blockers - none
 Calvin -
-        Yesterday - successfully connected backend and front end
-        Today - Working on designing the front end and making it look nice
-        Blockers - none
->>>>>>> 60c3c05bc764b10daaf2c60bfa0d63a169502513
-
+	Yesterday - Formatting the reimbursements
+	Today - done with invidual reimbursement list, user profiles
+	Blockers - None
 

@@ -47,3 +47,51 @@ Derek:
 		- Resolving issues with Tomcat and Hibernate. Hopefully will be getting started on DAO's.
 	Do I have any blockers?
 		- No.
+
+07/08/2022
+
+Michael
+	What did you do yesterday?
+		- Fixed all issues with connection and database.
+	WHat am I doing today?
+		- Today will try to incorporate the functionality of their reimbursement submissions.
+	Do I have any blockers?
+		- No.
+Nestor:
+	What did you do yesterday?
+		- Fixing the already established connection.
+	What am I doing today?
+		- Just gonna keep developing the body of the application (I.e. populating the Employee and Manager models, daos, etc.)
+	Do I have any blockers?
+		- No.
+Derek: 
+	What did you do yesterday?
+		- Resolved all connection issues.
+	What am I doing today?
+		- Start writing my service layers.
+	Do I have any blockers?
+		- No.
+
+07/11/2022
+
+Michael
+	What did you do yesterday?
+		- I implemented my logout functionality and tried to progress on my reimbursement retrieval and got stuck (my error)
+	WHat am I doing today?
+		- Going to fix aforementioned issue.
+	Do I have any blockers?
+		- No.
+Nestor:
+	What did you do yesterday?
+		- Debugging Project 1 code and preparing for QC.
+	What am I doing today?
+		- Preparing for QC.
+	Do I have any blockers?
+		- No.
+Derek: 
+	What did you do yesterday?
+		- I finished writing up most of my front end code
+	What am I doing today?
+		- Just studying for QC tomorrow.
+	Do I have any blockers?
+		- No.
