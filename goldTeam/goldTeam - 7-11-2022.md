@@ -10,6 +10,12 @@
 - Today - Start frontend and create services when needed
 - Blocks - Had a few but found answers on Google
 
+# Asmaa
+
+- Friday/over the weekend - We fixed dopost function together
+- Today - Study for QC
+- Blocks - N/A
+
 # Erik
 
 - Friday/over the weekend - Added user sign up, allowed users to be able to submit simple reimburement request (type only), allowed users to be able to see all pending requests (not tied to specific user yet)
