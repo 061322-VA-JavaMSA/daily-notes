@@ -71,3 +71,27 @@ Derek:
 		- Start writing my service layers.
 	Do I have any blockers?
 		- No.
+
+07/11/2022
+
+Michael
+	What did you do yesterday?
+		- I implemented my logout functionality and tried to progress on my reimbursement retrieval and got stuck (my error)
+	WHat am I doing today?
+		- Going to fix aforementioned issue.
+	Do I have any blockers?
+		- No.
+Nestor:
+	What did you do yesterday?
+		- Debugging Project 1 code and preparing for QC.
+	What am I doing today?
+		- Preparing for QC.
+	Do I have any blockers?
+		- No.
+Derek: 
+	What did you do yesterday?
+		- I finished writing up most of my front end code
+	What am I doing today?
+		- Just studying for QC tomorrow.
+	Do I have any blockers?
+		- No.
