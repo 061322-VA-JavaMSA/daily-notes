@@ -95,3 +95,27 @@ Derek:
 		- Just studying for QC tomorrow.
 	Do I have any blockers?
 		- No.
+
+07/12/2022
+
+Michael
+	What did you do yesterday?
+		- Yesterday I implemented my reimbursement retrieval, and today I'm working on the resolution functionality (approve/deny).
+	WHat am I doing today?
+		- My QC was way better than I expected it would be. I was asked about CSS, and got tripped up on the order of specificity lol but I got through it and made it through to the other side!
+	Do I have any blockers?
+		- No.
+Nestor:
+	What did you do yesterday?
+		- Yesterday studying for QC and playing around with CSS and JS to help me memorize terminology
+	What am I doing today?
+		- Today I'll be wokring with Manager services, though I havent finished Employee services yet
+	Do I have any blockers?
+		- No.
+Derek: 
+	What did you do yesterday?
+		- Studied for QC.
+	What am I doing today?
+		- Have to do testing and add logs, and clean up program and database for P1
+	Do I have any blockers?
+		- No.
