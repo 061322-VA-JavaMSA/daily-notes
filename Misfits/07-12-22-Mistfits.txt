@@ -1,0 +1,40 @@
+Misfits - Jairus (Jay)
+
+Q1. What did I do yesterday
+
+Worked on Login
+
+Q2. What am I doing today
+
+Still working on Login 
+
+Q3. Do I have any blockers
+
+I have a better understanding of servlets
+No Blocker Currently, just behind as far as features 
+
+Ariel:
+- What I did last work day?
+	Study Guide & Quizzes
+- What am I doing today?
+	Studying for QC
+- Do I have any blockers?
+	None
+
+Glenn Syham
+
+- What I did last work day?
+	 did qc
+- What am I doing today?
+     -I have a question about
+	 logging and unit testing
+- Do I have any blockers?
+	none
+
+Gianmarco Barone
+- What I did last work day?
+worked on getting employee pending requests
+- What am I doing today?
+working on accepting denying requests
+- Do I have any blockers?
+no blockers
