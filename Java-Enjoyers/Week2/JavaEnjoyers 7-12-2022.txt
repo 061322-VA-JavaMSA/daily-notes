@@ -1,0 +1,18 @@
+Zaki: 
+    Yesterday - Took the Revpro assignments 
+                - Worked on project1 mapped two tables to Java application 
+    Today -  preparing for QC
+            - Working on project1
+    Blockers - None
+
+Trey:
+    Yesterday - Finished quizzes and made reimbursements pull all reimbursement requests in the database for an admin or for the specific.
+    Today - Prepeare for QC, and add function to allow user to add a reimbursement request.
+    Blockers - None
+
+Dylan:
+    Yesterday - Eased up on working on the project to make time to study for today's QC.
+                - Took the assessments.
+    Today - Do the best I can during today's QC.
+            - Continue working on Reimbursements in the project.
+    Blockers - None
