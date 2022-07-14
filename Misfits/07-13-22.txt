@@ -1,0 +1,35 @@
+Misfits -- 7/13/2022
+
+Gianmarco
+- What I did last work day?
+worked on front end tables
+- What am I doing today?
+working on manager views
+- Do I have any blockers?
+no blockers
+
+Ariel:
+- What I did last work day?
+	Study for QC
+- What am I doing today?
+	Finishing up my webpages (making sure info is displaying) and running through User Stories to make sure everything works
+- Do I have any blockers?
+	None
+
+Glenn: 
+- What I did last work day?
+	log4j2
+- What am I doing today?
+	unit test
+- Do I have any blockers?
+	yes log4j2 wont write unless running in driver
+
+Jairus (Jay)
+Q1. What did I do yesterday
+Worked on Login
+Q2. What am I doing today
+Still working on Login
+Going to work creating a reimbursement
+Q3. Do I have any blockers
+Error Resolved
+No Blockers
