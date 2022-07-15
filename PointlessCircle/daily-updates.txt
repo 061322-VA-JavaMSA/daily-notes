@@ -143,3 +143,27 @@ Derek:
 		- Have to do testing and add logs, and clean up program and database for P1
 	Do I have any blockers?
 		- No.
+
+07/14/2022
+
+Michael
+	What did you do yesterday?
+		- Worked on servies until computer malfunctioned.
+	WHat am I doing today?
+		- Computer malfunctioned.
+	Do I have any blockers?
+		- Yes, computer is malfunctioning completely.
+Nestor:
+	What did you do yesterday?
+		- Worked on manager functionalities + fixing time-consuming bugs
+	What am I doing today?
+		- Working on beautifying the html page
+	Do I have any blockers?
+		- No.
+Derek: 
+	What did you do yesterday?
+		- Restarted project a couple times trying to debug mapping errors
+	What am I doing today?
+		- Pulling an all nighter trying to figure out what's wrong with my project.
+	Do I have any blockers?
+		- No.
