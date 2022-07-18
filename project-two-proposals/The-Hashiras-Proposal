@@ -1,1 +1,28 @@
-Group consisting of Lane, Glenn, Dylan
+#############################################################################
+######################## THE HASHIRAS PROPOSALS #############################
+### MEMBERS: (TEAM/GIT LEADER) LANE MCSPADDEN, DYLAN MARTIN, GLENN SYHAM ####
+#############################################################################
+#############################################################################
+
+Proposed API: https://docs.api.jikan.moe/
+
+User Stories:
+     // Account
+     User Must Be Able to Login
+     User Must Be Able to Create an Account
+     User Must Be Able to Update Their Information
+     User Must Be Able to Confirm Their Account From A Confirmation Email
+     
+     //API Specific
+     User Must Be Able to View Their List
+     User Must Be Ablt to Add/Remove From Their List
+     User Must Be Able to Search for Anime
+     User Must Be Able to Comment on Anime
+     
+     //System Specific
+     System must be able to calculate the average reviews (ex. 7/10 stars over x amount of reviews)
+     System must effectively implement a search function using the API
+     System must relocated anime to specific lists based on completedness
+     System must be able to show user suggested anime
+
+
