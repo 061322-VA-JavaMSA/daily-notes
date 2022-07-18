@@ -1,0 +1,38 @@
+
+TEAM NAME: HACKSTREETBOYS
+PROJECT NAME: FACEPAINT
+DESCRIPTION: SOCIAL MEDIA WEBSITE CENTERED AROUND ART OF INSTITUTE OF CHICAGO API
+TEAM MEMBERS:
+GIANMARCO
+TREY
+ASHLEY
+
+TEAM LEAD: GIANMARCO
+GITFLOW MANAGER: TREY
+
+USER STORIES
+1.  User login
+2. User logout
+3.  View picture of art (API goals) 
+4. Get attributes of art (API goal) 
+5. Get by category(API goal) 
+6. Search for art by attribute/category(API goal) 
+7. Create/Delete User 
+8. View/Update User
+9. User has showcase art(API goal) 
+10. Users can view other Users
+11. Get list of all Users
+(stretch goal) public/private Users
+12.  Filter user based on showcase category
+13.  Users can join groups
+14. Users can leave groups
+15. User can make posts in groups
+16. User can delete their posts
+17. Admin user
+18. Users can have friends (many to many)
+
+API OF CHOICE: https://api.artic.edu/docs/
+
+URL FOR POST MAN:
+https://www.artic.edu/iiif/2/1adf2696-8489-499b-cad2-821d7fde4b33/full/843,/0/default.jpg
+THIS URL WILL RETURN THE PICTURE OF A PIECE OF ART CALLED: La Grande Jatte
