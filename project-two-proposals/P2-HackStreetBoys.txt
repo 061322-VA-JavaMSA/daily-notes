@@ -6,30 +6,34 @@ TEAM MEMBERS:
 GIANMARCO
 TREY
 ASHLEY
+Bryan
+Angel
 
 TEAM LEAD: GIANMARCO
 GITFLOW MANAGER: TREY
 
 USER STORIES
-1.  User login
-2. User logout
-3.  View picture of art (API goals) 
-4. Get attributes of art (API goal) 
-5. Get by category(API goal) 
-6. Search for art by attribute/category(API goal) 
-7. Create/Delete User 
-8. View/Update User
-9. User has showcase art(API goal) 
-10. Users can view other Users
-11. Get list of all Users
-(stretch goal) public/private Users
-12.  Filter user based on showcase category
-13.  Users can join groups
-14. Users can leave groups
-15. User can make posts in groups
-16. User can delete their posts
-17. Admin user
-18. Users can have friends (many to many)
+User-
+User login
+User logout
+Create User
+Update themselves
+Showcase Art
+
+Admin extends users-
+See all users
+Remove Users
+
+Art Api-
+View picture of art  
+Get attributes of art 
+Search for art by category 
+
+Stretch Goals- TBD
+
+
+
+
 
 API OF CHOICE: https://api.artic.edu/docs/
 
